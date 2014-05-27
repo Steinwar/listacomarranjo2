@@ -13,7 +13,8 @@ package listacomarranjo;
 public class TesteGit {
     public int cont;
     public String nome;
-    public int teste;
+    
+    public double teste2;
     
     public TesteGit(){
         
